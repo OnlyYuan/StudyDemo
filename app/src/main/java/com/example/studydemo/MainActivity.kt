@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         initData()
         print("dedddd22222")
+        print("develop")
     }
 
     private fun initData() {
